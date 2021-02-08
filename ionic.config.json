@@ -1,0 +1,7 @@
+{
+  "name": "vehicle-telematics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
